@@ -1,0 +1,10 @@
+id: YDP172H001-V3
+category: displays
+size: "1.72"
+panel: tft
+resolution: 356x400
+interface: [qspi]
+driver: WAE2012
+touch: null
+outline: 31.50 x 37.22 x 1.56 mm
+active_area: 29.10 x 32.70 mm
